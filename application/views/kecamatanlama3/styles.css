@@ -1,0 +1,296 @@
+body{
+	font-family: "Roboto" !important;
+}
+.bg-1{
+	background-color: #FF4530;
+	color: #ffffff;
+}
+.bg-2{ 
+	background-color: #ffffff;
+	color: #000000;
+}
+.bg-3{
+	background-color: #8e8e8e;
+	color: #ffffff;
+}
+.bg-4{
+	background: #E5E5E5;
+}
+.bg-5{
+	background: #3F3C3C;
+}
+.bg-6{
+	background-color: #E5E5E5;
+}
+.bg-7{
+	background: rgba(0, 0, 0, 0.51);
+}
+.p1{
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+}
+.p2{
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 18px;
+}
+.p3{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.p4{
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 16px;
+}
+.p5{
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	text-align: center;
+}
+.p6{
+	font-style: normal;
+	line-height: normal;
+	margin-bottom: 0px;
+}
+.p7{
+	font-style: normal;
+	line-height: normal;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.p8{
+	font-style: italic;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.p9{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 0.07em;
+	color: #000000;
+
+}
+.p10{
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 16px;
+	text-align: center;
+
+	color: #000000;
+}
+.p11{
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 16px;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+.p12{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.p13{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 32px;
+	font-size: 24px;
+	letter-spacing: 0.07em;
+}
+.p14{
+	font-style: bold;
+}
+.p15{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.p16{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 32px;
+	font-size: 20px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.hr1{
+	width: 10%;
+	height: 5px;
+	background: #FF4530;
+}
+.hr2{
+	margin-top: 10px;
+	width: 10%;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+}
+.hr3{
+	margin-top: 10px;
+	width: 80%;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+}
+.hr4{
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 240px;
+	height: 5px;
+	background: #E5DCDB;
+	border-top: 0px;
+}
+.hr5{
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 75px;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+}
+.hr6{
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 125px;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+}
+.fcolor1{
+	color: #95999D;
+}
+.fcolor2{
+	color: #FFFFFF;
+}
+.padding1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.padding2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.padding3{
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+.padding4{
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.padding5{
+	padding-top: 10px;
+}
+.padding6{
+	padding-left: 5px;
+}
+.padding7{
+	padding-left: 75px;
+}
+.padding8{
+	padding-top: 50px;
+}
+.padding9{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.padding10{
+	padding-top: 30px;
+}
+.padding11{
+	padding-bottom: 30px;
+}
+.padding12{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.padding13{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.padding14{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.margin1{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.margin2{
+	margin-left: 7px;
+}
+.margin3{
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+.margin4{
+	margin-top: 15px;
+}
+.margin5{
+	margin-bottom: 20px;
+}
+.margin6{
+	margin-top: 30px;
+}
+.btn{
+	background-color: #f4511e;
+	color: #fff;
+}
+.btn:hover{
+	border: 1px solid #f4511e;
+	background-color: #fff !important;
+	color: #f4511e;
+}
+.thumbnail1{
+	border: 0px;
+	background-color: #F5F7F9;
+	max-width: 360px;
+}
+.thumbnail2{
+	padding: 0 0 0 0;
+	border: 0px;
+	max-width: 360px;
+}
+.thumbnail3{
+	min-width: 300px;
+	min-height: 100px;
+	padding: 0 0 0 0;
+	border: 0px;
+}
+.media1{
+	margin-top: 0px;
+}
+.imgright{
+	float: right;
+}
+.card-horizontal{
+	display: flex;
+	flex: 1 1 auto;
+}

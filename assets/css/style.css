@@ -1,0 +1,446 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+/* NAVBAR */
+.navbrand{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.navbar1{
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 13px;
+	color: #000000;
+}
+.textimage{
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.centertext{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(29, 27, 27, 0.47);
+	padding: 15px;
+}
+.bottomtext{
+	position: absolute;
+	width: 100%;
+	height: 5%;
+	bottom: 0px;
+	background: rgba(29, 27, 27, 0.47);
+}
+.hometext{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.hometext1{
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+	color: #FFFFFF;
+	background-color: #FF4530;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 0px;
+}
+.hometext2{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #95999D;
+	margin-bottom: 5px;
+}
+.hometext3{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.hometext4{
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.hometext5{
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.hometext6{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.hometext7{
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.hometext8{
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.hometext9{
+	font-style: normal;
+	font-weight: 900;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+}
+.hometext10{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+
+}
+.hometext11{
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 14px;
+	color: #000000;
+}
+.hometext12{
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	font-size: 14px;
+	color: #000000;
+}	
+.bghome{
+	background: #F5F7F9;
+}
+.bghome1{
+	background: rgba(61, 59, 59, 0.76);
+}
+.bghome2{
+	background: #E5E5E5;
+}
+.bghome3{
+	background: #E5E5E5;
+}
+.hr1{
+	width: 10%;
+	height: 5px;
+	background: #FF4530;
+}
+.hr2{
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 240px;
+	height: 5px;
+	background: #E5DCDB;
+	border-top: 0px;
+}
+.hr3{
+	margin-top: 10px;
+	width: 70%;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+	margin-left: 0px;
+}
+.hr4{
+	margin-top: 5px;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+	margin-left: 0px;
+}
+.hr5{
+	margin-top: 10px;
+	width: 9%;
+	height: 5px;
+	background: #FF4530;
+	border-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+.hr6{
+	width: 10%;
+	height: 5px;
+	background: #FF4530;
+	margin-top: 5px;
+}
+.hr7{
+	width: 100%;
+	height: 3px;
+	background: rgba(0, 0, 0, 0.51);
+	margin-top: 5px;
+	opacity: 10%;
+}
+.hr8{
+	width: 100%;
+	height: 1px;
+	background: #FF4530;
+	margin-top: 5px;
+}
+.p30px{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.patas50px{
+	padding-top: 50px;
+}
+.matas50px{
+	padding-top: 50px;
+}
+
+/* CONTENT */
+.jumbotron{
+	background: transparent;
+}
+.textimage{
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.bottomtext2{
+	position: absolute;
+	width: 100%;
+	height: 5%;
+	bottom: 0px;
+	background: rgba(29, 27, 27, 0.47);
+}
+.bottomright{
+	position: absolute;
+	bottom: 1%;
+	right: 5%;
+}
+.headertext{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+.contenttitle{
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+	margin-bottom: 0px;
+
+}
+.contenttitle1{
+/*	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 14px;
+	text-align: center;
+	color: #000000;*/
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+	color: #000000;
+}
+.contenttitle2{
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	font-size: 18px;
+	color: #000000;
+}
+.contenttext{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 18px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.contenttext1{
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 18px;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+.contenttext2{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 32px;
+	font-size: 24px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.contenttext3{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 18px;
+	letter-spacing: 0.07em;
+	color: #000000;
+}
+.contenttext4{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 22px;
+	color: #000000;
+	margin-bottom: 0px;
+}
+.contenttext5{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 17px;
+	color: #000000;
+}
+.contenttext6{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 26px;
+	color: #000000;
+}
+.contenttext7{
+	font-style: normal;
+	font-weight: 300;
+	line-height: 24px;
+	font-size: 18px;
+
+	color: #000000;
+}
+.headermantap1{
+	width: 100%;
+	height: 17px;
+	background: #FF4530;
+}
+.headermantap2{
+	width: 100%;
+	height: 36px;
+	background: rgba(0, 0, 0, 0.51);
+}
+.mapwrapper{
+	position: relative;
+	width: 100%;
+	height: 450px;
+	border-radius: 50px;
+	overflow: hidden;
+	margin: 50px auto 50px auto;
+	display:block;
+}
+.googlemap{
+	width: 100%;
+	height: 450px;
+}
+.page-item.active .page-link {
+	z-index: 1;
+	color: #fff;
+	background-color: #FF0000;
+	border-color: #dee2e6;
+}
+.parent {
+	width: 100%; /* I took the width from your post and placed it in css */
+	height: 100%;
+}
+
+/* This will style any <img> element in .parent div */
+.parent img {
+	width: 100% !important;
+	height: 100% !important;
+
+}
+
+/* FOOTER */
+.footertext{
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-bottom: 0px;
+	margin-top: 15px;
+
+}
+.footertext2{
+	font-style: italic;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.bgfooter{
+	background: #3F3C3C;
+}
+.marginfooter{
+	margin-left: 5px;
+}
+
+/* asdasdasd */
+
+/*.social-footer {
+	padding: 1rem;
+	background: #8a8a8a;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.social-footer .social-footer-icons li:last-of-type {
+	margin-right: 0;
+}
+
+.social-footer .social-footer-icons .fa {
+	font-size: 1.3rem;
+	color: #fefefe;
+}
+
+.social-footer .social-footer-icons .fa:hover {
+	color: #4a4a4a;
+	transition: color 0.3s ease-in;
+}
+@media (max-width: 1366px) {
+  mantap{
+  	text-align: left;
+  }
+}
+@media (max-width: 767px) {
+  mantap{
+  	text-align: left;
+  }
+}*/
